@@ -50,7 +50,7 @@ The fine-tuned instruction-following Stambecco models are available on 🤗 Hugg
 
 You can infer these models by using the following Google Colab Notebook.
 
-<a href="https://colab.research.google.com/github/mchl-labs/stambecco/blob/main/notebooks/Stambecco_demo.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/mchl-labs/stambecco/blob/main/notebooks/Stambecco_chat.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 We released a translated dataset ([stambecco_data_it.json - Now also on Hugging Face's datasets](https://huggingface.co/datasets/mchl-labs/stambecco_data_it)), the models (available on the Hugging Face's hub) and the code to reproduce the results.
